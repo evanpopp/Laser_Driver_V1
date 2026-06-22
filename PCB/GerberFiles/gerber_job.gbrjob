@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-09-25T04:00:52Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 0.8718,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Laser Driver PCB v53"
+        },
+        "Owner": "Evan Popp <popp.evan103@gmail.com>",
+        "Size": {
+            "X": 66.98,
+            "Y": 52.06
+        }
+    }
+}
